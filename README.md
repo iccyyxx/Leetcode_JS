@@ -6,3 +6,6 @@
 
 ## 双指针 
 - [[125] 验证回文串](https://leetcode.cn/problems/valid-palindrome/description/)⭐
+
+## 数组
+- [[3355] 零数组变换 I](https://leetcode.cn/problems/zero-array-transformation-i/description/)⭐⭐⭐ `差分数组` `前缀和`
