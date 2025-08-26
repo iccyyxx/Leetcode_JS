@@ -17,3 +17,6 @@
 - [[3355] 零数组变换 I](https://leetcode.cn/problems/zero-array-transformation-i/description/)⭐⭐⭐ `差分数组` `前缀和`
 - [[128] 最长连续序列](https://leetcode.cn/problems/longest-consecutive-sequence/solutions/276931/zui-chang-lian-xu-xu-lie-by-leetcode-solution/)⭐
 - [[283] 移动零](https://leetcode.cn/problems/move-zeroes/description/)⭐
+
+## 模拟
+- [[498] 对角线遍历](对角线遍历)⭐⭐
