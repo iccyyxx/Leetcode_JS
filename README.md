@@ -8,6 +8,7 @@
  - [[1780] 判断一个数字是否可以表示成三的幂的和](https://leetcode.cn/problems/check-if-number-is-a-sum-of-powers-of-three/description/)⭐⭐
  - [[202] 快乐数](https://leetcode.cn/problems/happy-number/description/)⭐
  - [[454] 四数相加 II](https://leetcode.cn/problems/4sum-ii/description/)⭐
+ - [[1227] 飞机座位分配概率](https://leetcode.cn/problems/airplane-seat-assignment-probability/description/)⭐
 
 ## 双指针 
 - [[125] 验证回文串](https://leetcode.cn/problems/valid-palindrome/description/)⭐
