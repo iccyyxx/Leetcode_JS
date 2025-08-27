@@ -9,6 +9,7 @@
  - [[202] 快乐数](https://leetcode.cn/problems/happy-number/description/)⭐
  - [[454] 四数相加 II](https://leetcode.cn/problems/4sum-ii/description/)⭐
  - [[1227] 飞机座位分配概率](https://leetcode.cn/problems/airplane-seat-assignment-probability/description/)⭐
+ - [[3000] 对角线最长的矩形的面积](https://leetcode.cn/problems/maximum-area-of-longest-diagonal-rectangle/description/)⭐
 
 ## 双指针 
 - [[125] 验证回文串](https://leetcode.cn/problems/valid-palindrome/description/)⭐
